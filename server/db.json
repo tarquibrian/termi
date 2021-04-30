@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Brian Tarqui",
+      "username": "Tarqui",
+      "email": "tarquibrian@gmail.com",
+      "phone": "63909428",
+      "address": "cbba"
+    },
+    {
+      "id": "4",
+      "name": "Jorge Quiroz",
+      "username": "Jorge",
+      "email": "jorge@gmail.com",
+      "phone": "65742782",
+      "address": "cbba"
+    },
+    {
+      "id": "5",
+      "name": "Carlos Perez",
+      "username": "Carlos",
+      "email": "carlos@gmail.com",
+      "phone": "74372817",
+      "address": "cbba"
+    }
+  ]
+}
